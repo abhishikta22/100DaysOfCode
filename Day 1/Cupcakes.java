@@ -9,7 +9,6 @@ class Cupcakes{
             int n= sc.nextInt();
             System.out.println(n/2+1);
             t-=1;
-            }
-            
+            }            
         }
     }
